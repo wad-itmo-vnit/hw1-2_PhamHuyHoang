@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    width: 900px;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.item {
+    flex: 30%;
+    padding: 10px;
+}
+img {
+    max-width: 100%;
+    min-height: 100%;
+}
